@@ -1,8 +1,11 @@
 ### Hi 👋!
 I'm Manuel Ventura, I'm 20 years old and a computer science student <br> looking for opportunities and collaboration on projects related to web development.
+<br>
+My portfolio: 👇<br>
+https://www.manuel-dev.netlify.app/
 
 
-<table width="100%">
+<table>
   <thead>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Manuel-AC-Ventura&show_icons=true&theme=radical"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-AC-Ventura&layout=compact&theme=radical"></td>
