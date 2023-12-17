@@ -2,7 +2,7 @@
 I'm Manuel Ventura, I'm 20 years old and a computer science student <br> looking for opportunities and collaboration on projects related to web development.
 <br>
 My portfolio: 👇<br>
-https://www.manuel-dev.netlify.app/
+[https://www.manuel-dev.netlify.app/](https://manuel-dev.netlify.app/)
 
 
 <table>
