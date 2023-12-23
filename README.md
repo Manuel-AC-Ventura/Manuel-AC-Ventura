@@ -1,5 +1,5 @@
 ### Hi 👋!
-I'm Manuel Ventura, I'm 20 years old and a computer science student <br> looking for opportunities and collaboration on projects related to web development.
+I'm Manuel Ventura, I'm 21 years old and a computer science student <br> looking for opportunities and collaboration on projects related to web development.
 <br>
 My portfolio: 👇<br>
 [https://www.manuel-dev.netlify.app/](https://manuel-dev.netlify.app/)
