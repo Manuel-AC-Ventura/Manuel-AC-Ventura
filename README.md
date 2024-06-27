@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-My name is Manuel Ventura. At 22, I am a dedicated computer science student actively seeking opportunities and collaborations in web development projects.
+I'm Manuel Ventura, a passionate 22-year-old computer science student, eagerly exploring opportunities and collaborations in the realm of web development.
 
 **Explore My Portfolio:** [Manuel's Portfolio](https://manuelventura.vercel.app/)
 
