@@ -32,7 +32,7 @@ I'm **Manuel Ventura**, an Angolan developer specializing in building accessible
 
 | GitHub Stats | Most Used Languages |
 |-------------|---------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manuel-AC-Ventura&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-dens/?username=Manuel-AC-Ventura&layout=compact&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manuel-AC-Ventura&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-AC-Ventura&layout=compact&theme=radical) |
 
 ---
 
